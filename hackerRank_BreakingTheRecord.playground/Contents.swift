@@ -21,8 +21,8 @@ import UIKit
 //
 //Print two space-seperated integers describing the respective numbers of times her best (highest) score increased and her worst (lowest) score decreased.
 
-
-var numberOfGames = 23
+var n = Int(arc4random()))
+var numberOfGames = n
 var scores: [Int] = []
 
 for i in 1...numberOfGames {
